@@ -1,5 +1,7 @@
 php单文件网站备份管理系统源码
 
+<img src="https://i.image.cx/Ia9e3.png" alt="111" border="0">
+
 将backup.php和beifen.php上传至A服务器站点内
 
 访问beifen.php 默认密码123456
